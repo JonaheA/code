@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+void main()
+{
+int a,b,c;
+printf("vvedit` a ");
+scanf("%d",&a);
+printf("vvedit` b ");
+scanf("%d",&b);
+
+c=a+b;
+
+printf("c=",c);
+
+return 0;
+
+
+}
